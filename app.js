@@ -130,9 +130,9 @@ app.post("/", function(req, res) {
     });
   }
 
-  item.save();
+//   item.save();
 
-  res.redirect("/");
+//   res.redirect("/");
 
 });
 
